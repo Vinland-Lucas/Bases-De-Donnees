@@ -146,7 +146,7 @@ Avec le mot clé **"WHERE"**
     Dans ce cas, ça va seulement nous retourner les lignes ayant pour valeur "US" dans la colonne "country"
     SELECT email, id FROM nom_de_la_table;
 
-    WHERE country = "US"
+    WHERE country = 'US'
 
     ORDER BY id ASC/DESC
     LIMIT 2;
@@ -155,7 +155,7 @@ Avec le mot clé **"WHERE"**
     Ici ça nous retournera toutes les lignes ayant pour valeur "US" dans la colonne "country" et ayant une valeur supérieure à 1 dans la colonne "id" : 
     SELECT email, id FROM nom_de_la_table;
 
-    WHERE country = "US"
+    WHERE country = 'US'
     AND id > 1 
 
     ORDER BY id ASC/DESC
@@ -169,8 +169,8 @@ Avec le mot clé **"LIKE"** qui sert à rechercher du texte
     Dans ce cas ça va nous renvoyer les lignes ayant pour valeur "US" dans la colonne "country" et ayant une valeur dans la colonne "email" commencant par "h"
     SELECT email, id FROM nom_de_la_table;
 
-    WHERE country = "US"
-    AND email LIKE "h%"
+    WHERE country = 'US'
+    AND email LIKE 'h%'
 
     ORDER BY id ASC/DESC
     LIMIT 2;

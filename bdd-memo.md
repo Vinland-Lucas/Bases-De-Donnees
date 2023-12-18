@@ -9,7 +9,11 @@ Le SGBD gère trois choses importantes : les données, le moteur de base de donn
 
 Exemple : Les outils que nous utilisons tous au quotidien nécessitent des SGBD en coulisse. Cela comprend les guichets automatiques bancaires, les systèmes de réservation de vols, les systèmes d'inventaire au détail et les catalogues de bibliothèques, par exemple.
 
-Source : https://www.oracle.com/fr/database/systeme-gestion-base-de-donnees-sgbd-definition.html
+Source : 
+
+https://www.oracle.com/fr/database/systeme-gestion-base-de-donnees-sgbd-definition.html
+
+https://www.youtube.com/watch?v=Ecv0PEOvLq0
 
 ### Qu'est ce qu'un système d'information ?
 <b>Définition</b> : Le système d’information (SI) est un ensemble de ressources et de dispositifs permettant de collecter, stocker, traiter et diffuser les informations nécessaires au fonctionnement d’une organisation (administration, entreprise…).
@@ -28,7 +32,10 @@ En pratique, il permet d’améliorer l’efficacité du fonctionnement interne 
 
 Le système d’information permet de faciliter la <b>prise de décision</b>. Grâce au système d’information, le décideur possède toutes les données nécessaires pour prendre une décision.
 
-Source : https://payfit.com/fr/fiches-pratiques/systeme-information/
+Source : 
+
+https://payfit.com/fr/fiches-pratiques/systeme-information/
+
 
 ### Qu'est qu'une base de données ?
 <b>Définition :</b> Une base de données est un ensemble d'informations qui est organisé de manière à être facilement accessible, géré et mis à jour. Elle est utilisée par les organisations comme méthode de stockage, de gestion et de récupération de l’informations.
@@ -37,7 +44,11 @@ Les données sont organisées en lignes, colonnes et tableaux et sont indexées 
 
 Une base de données est stockée sous la forme d'un fichier ou d'un ensemble de fichiers sur support de stockage. L'information contenue dans ces fichiers peut être divisée en enregistrements. Ces enregistrements sont constitués d'un ou de plusieurs champs. Un champ constitue une seule pièce d’information, et chaque champ contient généralement des informations se rapportant à un aspect ou attribut de l'entité décrite par la base de données.
 
-Source : https://www.oracle.com/fr/database/definition-base-de-donnees.html
+Source : 
+
+https://www.oracle.com/fr/database/definition-base-de-donnees.html
+
+https://www.youtube.com/watch?v=Ecv0PEOvLq0
 
 ### Citez les différences entre ces éléments 
 La Base de Données est le/les fichier(s) qui va contenir toutes les informations. Ce fichier est organisé de manière claire et est mis à jour régulièrement.
@@ -121,6 +132,8 @@ https://www.base-de-donnees.com/mcd/
 https://www.univ-constantine2.dz/CoursOnLine/Benelhadj-Mohamed/co/Grain_3_1.html
 
 https://www.youtube.com/watch?v=OxJo051TMr8
+
+https://www.youtube.com/watch?v=Pgx0RMKg7bo
 
 https://www.base-de-donnees.com/cle-primaire/
 
