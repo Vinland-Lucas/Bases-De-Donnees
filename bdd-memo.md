@@ -131,9 +131,13 @@ https://www.base-de-donnees.com/mcd/
 
 https://www.univ-constantine2.dz/CoursOnLine/Benelhadj-Mohamed/co/Grain_3_1.html
 
-https://www.youtube.com/watch?v=OxJo051TMr8
+https://www.youtube.com/watch?v=OxJo051TMr8 --> grafikart crack
 
 https://www.youtube.com/watch?v=Pgx0RMKg7bo
+
+https://www.youtube.com/watch?v=iVGS4zA_ETA --> crack
+
+https://www.youtube.com/watch?v=e9nsUUWWryk --> crack
 
 https://www.base-de-donnees.com/cle-primaire/
 
