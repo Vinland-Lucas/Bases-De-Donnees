@@ -156,3 +156,10 @@ Sources :
 
 https://www-igm.univ-mlv.fr/~chochois/RessourcesCommunes/BDD/Modelisation/coursMLD.pdf
 
+
+## ACID : tout savoir sur ce concept important en gestion de BDD
+
+Sources : 
+
+https://datascientest.com/acid
+
